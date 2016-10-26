@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: Hi, my name is Forty
-description: 
+landing-title: Cresca Group
+description: The Cresca Group is a business management consultancy founded in Atlanta in 2010. We create and implement growth strategies for online retailers by crafting a unique and consistent brand image, leveraging social media tools, improving market reach and conversion and developing back-end systems to simplify and streamline processes. 
 image: 
 author: 
 nav-menu: 
@@ -33,9 +33,9 @@ nav-menu:
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>About Us</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>We can help you manage almost any aspect of a complex and growing business like customer service, fulfillment and inventory forecasting. With a unique understanding of branding, technology, marketing and communications - and how to exact competitive advantages when these elements are in harmony - our team partners with its clients to help them push themselves and their businesses to the next level..</p>
 		<ul class="actions">
 			<li><a href="landing.html" class="button next">Get Started</a></li>
 		</ul>
