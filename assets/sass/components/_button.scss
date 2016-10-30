@@ -130,3 +130,28 @@
 			opacity: 0.25;
 		}
 	}
+	@media screen and (max-width: 1300px) {
+		ul.values {
+			li a {
+				width: 300px;
+			}
+		}
+	}
+
+	@media screen and (max-width: 1040px) {
+		ul.values {
+			li a:last-child  {
+				margin-top: 1.5em;
+			}
+		}
+	}
+
+	@media screen and (max-width: 690px) {
+		ul.values {
+				margin: 0 0 0 0;
+				width: 95%;
+			li:last-child {
+				padding: 0 1em 0 0;
+			}
+		}
+	}
