@@ -97,6 +97,7 @@
 			$wrapper = $('#wrapper'),
 			$header = $('#header'),
 			$banner = $('#banner');
+			$logo = $('#header a.logo');
 
 		// Disable animations/transitions until the page has loaded.
 			$body.addClass('is-loading');
@@ -212,8 +213,8 @@
 					$banner.scrollex({
 						bottom:		$header.height() + 10,
 						terminate:	function() { $header.removeClass('alt'); },
-						enter:		function() { $header.addClass('alt'); },
-						leave:		function() { $header.removeClass('alt'); $header.addClass('reveal'); }
+						enter:		function() { $header.addClass('alt'); $logo.addClass('hide-logo');},
+						leave:		function() { $header.removeClass('alt'); $header.addClass('reveal'); $logo.removeClass('hide-logo'); }
 					});
 
 					window.setTimeout(function() {
