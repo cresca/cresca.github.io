@@ -8,7 +8,7 @@
 
 	#banner {
 		@include vendor('align-items', 'center');
-		@include vendor('background-image', 'url("../../images/banner.jpg")');
+		@include vendor('background-image', 'url("../images/banner.jpg")');
 		@include vendor('display', 'flex');
 		@include padding(4em, 0, (2em, 0, 0, 0));
 		background-attachment: fixed;
@@ -64,6 +64,7 @@
 
 				> :first-child {
 					width: auto;
+					max-width: 100%;
 
 					&:after {
 						max-width: 100%;
@@ -86,7 +87,7 @@
 				}
 
 				p {
-					font-size: 0.7em;
+					font-size: 1.7em;
 					font-weight: _font(weight-bold);
 					letter-spacing: _font(letter-spacing-alt);
 					text-transform: uppercase;
