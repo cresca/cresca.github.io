@@ -38,7 +38,7 @@
 
 		&.fit {
 			display: block;
-			margin: 0 0 _size(element-margin) 0;
+			margin: 0 0 0.5em 0;
 			width: 100%;
 
 			img {
@@ -59,4 +59,8 @@
 				margin: (_size(element-margin) * 0.75) 0;
 			}
 		}
+	}
+
+	span.team-selected {
+		max-width:300px;
 	}

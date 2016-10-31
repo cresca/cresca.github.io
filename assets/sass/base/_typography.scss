@@ -54,9 +54,32 @@
 	em, i {
 		font-style: italic;
 	}
+	.service-box{
+		&:hover {
+			color:#242943;
+			background-color: #FFF;
+		}
+	}
+
+	i {
+		&.services {
+			font-size:40px;
+			margin-top:10px;
+		}
+
+		&.team-contact {
+			margin-left: 0.4em;
+			font-size: 1.5em;
+			float: right;
+		}
+	}
 
 	p {
 		margin: 0 0 _size(element-margin) 0;
+
+		&.member-name {
+			margin: 0;
+		}
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -73,6 +96,11 @@
 
 	h1 {
 		font-size: 2.5em;
+
+		&.member-name {
+			margin: 0 0 0.3em 0;
+			border-bottom: 1px solid #FFF;
+		}
 	}
 
 	h2 {

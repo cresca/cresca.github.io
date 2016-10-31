@@ -112,10 +112,12 @@
 			background-color: _palette(fg-bold);
 			box-shadow: none;
 			color: _palette(bg);
+			border: 2px solid #FFF;
 
 			&:hover, &:active {
-				background-color: _palette(highlight);
-				color: _palette(bg) !important;
+				background-color: #242943;
+				color: #FFF !important;
+				border: 2px solid #FFF;
 			}
 
 			&:active {
@@ -130,3 +132,46 @@
 			opacity: 0.25;
 		}
 	}
+	@media screen and (max-width: 1300px) {
+		ul.values {
+			li a {
+				width: 300px;
+			}
+		}
+	}
+
+	@media screen and (max-width: 1040px) {
+		ul.values {
+			li a:last-child  {
+				margin-top: 1.5em;
+			}
+		}
+	}
+
+	@media screen and (max-width: 875px) {
+		p {
+			&.member-name  {
+				font-size: 0.7em;
+			}
+		}
+	}
+
+	@media screen and (max-width: 736px) {
+		#header a.logo {
+			img  {
+				max-width: 70% !important;
+			}
+		}
+	}
+
+	@media screen and (max-width: 690px) {
+		ul.values {
+				margin: 0 0 0 0;
+				width: 95%;
+			li:last-child {
+				padding: 0 1em 0 0;
+			}
+		}
+	}
+
+	ul.buttons-to-right {text-align: right; }

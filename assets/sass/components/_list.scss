@@ -61,6 +61,13 @@
 			}
 		}
 
+		&.values {
+			text-align: center;
+
+			li a {
+				width: 380px;
+			}
+		}
 		&.actions {
 			cursor: default;
 			list-style: none;

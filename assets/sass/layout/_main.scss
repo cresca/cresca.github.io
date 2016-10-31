@@ -24,3 +24,13 @@
 			border-bottom: solid 1px _palette(border);
 		}
 	}
+	div.hidden-elem {display: none;}
+
+	div.visible-elem {display: block;}
+
+	.service-box{
+		&.selected {
+			color:#242943;
+			background-color: #FFF;
+		}
+	}

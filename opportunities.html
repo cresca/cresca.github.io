@@ -1,0 +1,47 @@
+---
+layout: page
+title: Opportunities
+description: Be a Crescateer
+image: assets/images/pic04.jpg
+nav-menu: yes
+---
+<div id="main" class="alt">
+<section id="one">
+	<div class="inner">
+		<h2 id="content">Opportunities</h2>
+		<p>The Cresca Group is a charmingly quirky business management consultancy founded in Atlanta in 2010. We create and implement growth strategies for
+		online retailers by crafting a unique and consistent brand image, leveraging social media tools, improving market reach and conversion and developing
+		back-end systems to simplify and streamline processes. We can help you manage almost any aspect of a complex and growing business like customer service,
+		fulfillment and inventory forecasting. With a unique understanding of branding, technology, marketing and communications - and how to exact competitive
+		advantages when these elements are in harmony - our team partners with its clients to help them push themselves and their businesses to the next level.</p>
+
+		<h2>Crescateer Characteristics</h2>
+		<ul>
+			<li>Patient but fast</li>
+			<li>Enthusiastically friendly</li>
+			<li>Disturbingly detail-oriented</li>
+			<li>Eloquent, clear and straightforward in thought and text</li>
+			<li>Computer savvy</li>
+		</ul>
+
+		{% for post in site.posts %}
+		{% if post.category == 'jobs' %}
+			<div class="box">
+				<h3><a href="{{ post.url }}">{{ post.title }}: {{ post.description }}</a></h3>
+				<ul>
+					<li>{{ post.question-one }}</li>
+					<li>{{ post.question-two }}</li>
+					<li>{{ post.question-three }}</li>
+				</ul>
+				<p>{{ post.answer }}</p>
+				<ul class="actions buttons-to-right">
+					<li><a href="{{ post.apply }}" class="button special small">Apply</a></li>
+					<li><a href="{{ post.url }}" class="button small">Learn More</a></li>
+				</ul>
+			</div>
+		{% endif %}
+		{% endfor %}
+
+	</div>
+</section>
+</div>
