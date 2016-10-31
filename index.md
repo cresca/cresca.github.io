@@ -34,7 +34,7 @@ nav-menu:
 			</span>
 			<header class="major">
 					<h3><a href="about.html" class="link">About Us</a></h3>
-					<p>See what we're all about.</p>
+					<p>OUR MISSION, VISION &amp; VALUES</p>
 			</header>
 	</article>
 	<article>
@@ -43,7 +43,7 @@ nav-menu:
 			</span>
 			<header class="major">
 					<h3><a href="opportunities.html" class="link">Opportunities</a></h3>
-					<p>Be a Crescateer.</p>
+					<p>BECOME A CRESCATEER</p>
 			</header>
 	</article>
 	<article>
@@ -52,7 +52,7 @@ nav-menu:
 			</span>
 			<header class="major">
 					<h3><a href="services.html" class="link">Services</a></h3>
-					<p>Branding and Marketing.</p>
+					<p>DEVELOPING CLIENT SUCCESS</p>
 			</header>
 	</article>
 	<article>
@@ -61,7 +61,7 @@ nav-menu:
 			</span>
 			<header class="major">
 					<h3><a href="studies.html" class="link">Case Studies</a></h3>
-					<p>Meet our Challenges.</p>
+					<p>CHALLENGES, SOLUTIONS &amp; RESULTS</p>
 			</header>
 	</article>
 	<article>
@@ -79,7 +79,7 @@ nav-menu:
 			</span>
 			<header class="major">
 					<h3><a href="team.html" class="link">Team</a></h3>
-					<p>Our team.</p>
+					<p>MEET THE CRESCATEERS</p>
 			</header>
 	</article>
 </section>
