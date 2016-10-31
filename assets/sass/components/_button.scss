@@ -146,6 +146,22 @@
 		}
 	}
 
+	@media screen and (max-width: 875px) {
+		p {
+			&.member-name  {
+				font-size: 0.7em;
+			}
+		}
+	}
+
+	@media screen and (max-width: 736px) {
+		#header a.logo {
+			img  {
+				max-width: 70% !important;
+			}
+		}
+	}
+
 	@media screen and (max-width: 690px) {
 		ul.values {
 				margin: 0 0 0 0;
@@ -155,3 +171,5 @@
 			}
 		}
 	}
+
+	ul.buttons-to-right {text-align: right; }

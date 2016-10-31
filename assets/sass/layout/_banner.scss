@@ -63,7 +63,7 @@
 				width: auto;
 
 				> :first-child {
-					width: auto;
+					width: 380px;
 					max-width: 100%;
 
 					&:after {
@@ -87,7 +87,7 @@
 				}
 
 				p {
-					font-size: 1.7em;
+					font-size: 1.6em;
 					font-weight: _font(weight-bold);
 					letter-spacing: _font(letter-spacing-alt);
 					text-transform: uppercase;
