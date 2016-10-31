@@ -350,4 +350,14 @@
 
 	});
 
+	$('div.service-box').on('click', function (){
+		var classSelected =  $(this).parents().attr('class');
+
+		$('div.service-box').removeClass('selected');
+		$(this).addClass('selected');
+
+		$('div.service-desc').removeClass('visible-elem').addClass('hidden-elem');
+		$('div.'+classSelected).addClass('visible-elem');
+	});
+
 })(jQuery);
