@@ -1323,6 +1323,8 @@ i.team-contact {
 
 p {
   margin: 0 0 2em 0; }
+  p.member-name {
+    margin: 0; }
 
 h1, h2, h3, h4, h5, h6 {
   color: #ffffff;
@@ -1992,7 +1994,8 @@ button,
   .button.special {
     background-color: #ffffff;
     box-shadow: none;
-    color: #242943; }
+    color: #242943;
+    border: 2px solid #FFF; }
     input[type="submit"].special:hover, input[type="submit"].special:active,
     input[type="reset"].special:hover,
     input[type="reset"].special:active,
@@ -2002,8 +2005,9 @@ button,
     button.special:active,
     .button.special:hover,
     .button.special:active {
-      background-color: #9bf1ff;
-      color: #242943 !important; }
+      background-color: #242943;
+      color: #FFF !important;
+      border: 2px solid #FFF; }
     input[type="submit"].special:active,
     input[type="reset"].special:active,
     input[type="button"].special:active,

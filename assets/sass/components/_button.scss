@@ -112,10 +112,12 @@
 			background-color: _palette(fg-bold);
 			box-shadow: none;
 			color: _palette(bg);
+			border: 2px solid #FFF;
 
 			&:hover, &:active {
-				background-color: _palette(highlight);
-				color: _palette(bg) !important;
+				background-color: #242943;
+				color: #FFF !important;
+				border: 2px solid #FFF;
 			}
 
 			&:active {
