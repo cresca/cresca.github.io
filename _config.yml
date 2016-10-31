@@ -11,12 +11,12 @@ description: A responsive site template designed by HTML5 Up<br /> and released 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cresca.github.io" # the base hostname & protocol for your site
 author:
-street_address: 6760 Jimmy Carter Blvd. Suite 140
-city: Atlanta
+street_address: 6760 Jimmy Carter Blvd., Suite 140
+city: Peachtree Corners
 state: GA
-zip_code: 30071
+zip_code: GA 30071
 country: United States of America
-phone: 770.558.1753
+phone: +1 (770) 558-1753
 
 # Plugins
 gems:
@@ -52,5 +52,5 @@ facebook:
   app_id:
   publisher:
   admins:
-logo: assets/images/Logo_Master_White.png
+logo: /assets/images/Logo_Master_White.png
 google_site_verification:
