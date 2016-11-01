@@ -1,7 +1,9 @@
 ---
 layout: member
 category: team
-title: Ashley Taylor
+active: active
+first-name: Ashley
+last-name: Taylor
 description: Graphic Designer
 twitter:
 linkedin: https://www.linkedin.com/in/ashtaylor53

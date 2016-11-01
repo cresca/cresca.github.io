@@ -1,7 +1,9 @@
 ---
 layout: member
 category: team
-title: Mischelle Curtin
+active: active
+first-name: Mischelle
+last-name: Curtin
 description: Software Developer
 twitter:
 linkedin:

@@ -1,7 +1,9 @@
 ---
 layout: member
 category: team
-title: Marton Peter
+active: active
+first-name: Marton
+last-name: Péter
 description: Fulfillment Specialist
 twitter:
 linkedin:

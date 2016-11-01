@@ -1,7 +1,9 @@
 ---
 layout: member
 category: team
-title: Jonathan Bradley
+active: active
+first-name: Jonathan
+last-name: Bradley
 description: Fulfillment Specialist
 twitter:
 linkedin:

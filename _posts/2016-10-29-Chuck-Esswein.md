@@ -1,7 +1,9 @@
 ---
 layout: member
 category: team
-title: Chuck Esswein
+active: active
+first-name: Chuck
+last-name: Esswein
 description: Customer Experience Specialist
 twitter:
 linkedin:

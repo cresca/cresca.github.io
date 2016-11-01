@@ -14,9 +14,10 @@ author:
 street_address: 6760 Jimmy Carter Blvd., Suite 140
 city: Peachtree Corners
 state: GA
-zip_code: GA 30071
-country: United States of America
+zip_code: 30071
+country: United States
 phone: +1 (770) 558-1753
+email: support@crescagroup.com
 
 # Plugins
 gems:

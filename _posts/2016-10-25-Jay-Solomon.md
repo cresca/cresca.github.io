@@ -1,7 +1,9 @@
 ---
 layout: member
 category: team
-title: Jay Solomon
+active: active
+first-name: Jay
+last-name: Solomon
 description: President
 twitter: https://twitter.com/jaysol
 linkedin: https://www.linkedin.com/in/jayisolomon

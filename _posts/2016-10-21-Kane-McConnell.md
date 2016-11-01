@@ -1,7 +1,9 @@
 ---
 layout: member
 category: team
-title: Kane McConnell
+active: active
+first-name: Kane
+last-name: McConnell
 description: VP of Information Technology
 twitter: https://twitter.com/kanemcconnell
 linkedin: https://www.linkedin.com/in/kanemcconnell

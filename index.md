@@ -12,10 +12,10 @@ nav-menu:
 <section id="banner" class="major">
 	<div class="inner">
 		<header class="major">
-			<img src="{{ page.image }}" alt="Cresca Group">
+			<img src="{{ page.image }}" alt="{{ page.landing-title }}">
 		</header>
 		<div class="content">
-			<p style="text-transform: uppercase;">{{ page.description }}</p>
+			<p class="banner-desc" style="text-transform: uppercase;">{{ page.description }}</p>
 			<ul class="actions">
 				<li><a href="#contact" class="button next scrolly">Get Started</a></li>
 			</ul>
@@ -114,8 +114,6 @@ nav-menu:
 				<div class="contact-method">
 					<p>
 						Thank you for reaching out to us. Please fill out this form, and we will reply as soon as possible.
-						If you are an existing client and this is in reference to hosting or billing, please login HERE and submit
-						your request through our client portal.
 					</p>
 				</div>
 			</section>

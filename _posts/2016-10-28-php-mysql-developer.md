@@ -1,8 +1,9 @@
 ---
 layout: post
 category: jobs
-title: Technology & Development
-description: Developer (PHP, MySQL)
+active: active
+department: Technology & Development
+job-title: Developer (PHP, MySQL)
 question-one: Are you an experienced developer looking for your next exciting opportunity?
 question-two: Are you self-directed, able to work remotely with regular online collaboration?
 question-three: Do you deliver high quality work quickly and professionally?

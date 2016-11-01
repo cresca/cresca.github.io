@@ -79,6 +79,13 @@
 
 		&.member-name {
 			margin: 0;
+
+			span {
+				&.first-name {
+					font-weight: bold;
+					font-size: 1.5em;
+				}
+			}
 		}
 	}
 
@@ -109,6 +116,15 @@
 
 	h3 {
 		font-size: 1.35em;
+
+		&.studie {
+			border-bottom: 1px solid #FFF;
+			padding: 0 0 0.2em 0;
+		}
+
+		i {
+			padding: 0 0.5em 0 0;
+		}
 	}
 
 	h4 {

@@ -1,7 +1,9 @@
 ---
 layout: member
 category: team
-title: Josh Cunningham
+active: active
+first-name: Josh
+last-name: Cunningham
 description: Fulfillment Manager
 twitter:
 linkedin:

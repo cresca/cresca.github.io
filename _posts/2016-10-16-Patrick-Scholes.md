@@ -1,7 +1,9 @@
 ---
 layout: member
 category: team
-title: Patrick Scholes
+active: active
+first-name: Patrick
+last-name: Scholes
 description: Sr. Implementation Manager
 twitter:
 linkedin:

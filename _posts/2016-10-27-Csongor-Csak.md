@@ -1,7 +1,9 @@
 ---
 layout: member
 category: team
-title: Csongor Csák
+active: active
+first-name: Csongor
+last-name: Csák
 description: Customer Engagement Expert
 twitter:
 linkedin:

@@ -1,19 +1,18 @@
 ---
 layout: page
 title: Opportunities
-description: Be a Crescateer
+description: Become a Crescateer
 image: assets/images/pic04.jpg
 nav-menu: yes
 ---
 <div id="main" class="alt">
 <section id="one">
 	<div class="inner">
-		<h2 id="content">Opportunities</h2>
-		<p>The Cresca Group is a charmingly quirky business management consultancy founded in Atlanta in 2010. We create and implement growth strategies for
-		online retailers by crafting a unique and consistent brand image, leveraging social media tools, improving market reach and conversion and developing
-		back-end systems to simplify and streamline processes. We can help you manage almost any aspect of a complex and growing business like customer service,
-		fulfillment and inventory forecasting. With a unique understanding of branding, technology, marketing and communications - and how to exact competitive
-		advantages when these elements are in harmony - our team partners with its clients to help them push themselves and their businesses to the next level.</p>
+		<h2 id="content">{{ page.title }}</h2>
+		<p>The Cresca Group is a charmingly quirky business management consultancy founded in Atlanta in 2010. We create and implement
+		growth strategies for multi-channel, multi-national, online retailers by crafting unique and consistent brand images, leveraging
+		social media and PPC advertising tools, improving market reach and conversion, and developing back-end systems to simplify and
+		streamline processes.</p>
 
 		<h2>Crescateer Characteristics</h2>
 		<ul>
@@ -25,15 +24,18 @@ nav-menu: yes
 		</ul>
 
 		{% for post in site.posts %}
-		{% if post.category == 'jobs' %}
+		{% if post.category == 'jobs' and post.active == 'active' %}
 			<div class="box">
-				<h3><a href="{{ post.url }}">{{ post.title }}: {{ post.description }}</a></h3>
+				<h3><a href="{{ post.url }}">{{ post.department }}: {{ post.job-title }}</a></h3>
+				{% if post.overview %}
+					<p>{{ post.overview }}</p>
+				{% endif %}
 				<ul>
-					<li>{{ post.question-one }}</li>
-					<li>{{ post.question-two }}</li>
-					<li>{{ post.question-three }}</li>
+					{% if post.question-one %}<li>{{ post.question-one }}</li>{% endif %}
+					{% if post.question-two %}<li>{{ post.question-two }}</li>{% endif %}
+					{% if post.question-three %}<li>{{ post.question-three }}</li>{% endif %}
 				</ul>
-				<p>{{ post.answer }}</p>
+				{% if post.answer %}<p>{{ post.answer }}</p>{% endif %}
 				<ul class="actions buttons-to-right">
 					<li><a href="{{ post.apply }}" class="button special small">Apply</a></li>
 					<li><a href="{{ post.url }}" class="button small">Learn More</a></li>

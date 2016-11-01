@@ -1,8 +1,9 @@
 ---
 layout: post
 category: jobs
-title: Customer Experience
-description: Architect
+active: active
+department: Customer Experience
+job-title: Architect
 question-one: Are you personable, high energy and passionate about helping people?
 question-two: Are you disciplined, organized and a team player?
 question-three: Is your relatively indefatigable energy dwarfed only by your penchant for writing delightful emails and infusing your voice with angelic cheeriness?

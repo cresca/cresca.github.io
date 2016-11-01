@@ -1,7 +1,9 @@
 ---
 layout: member
 category: team
-title: Tiffany Dingle
+active: active
+first-name: Tiffany
+last-name: Dingle
 description: Customer Experience Architect
 twitter:
 linkedin:

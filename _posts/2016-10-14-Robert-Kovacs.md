@@ -1,7 +1,9 @@
 ---
 layout: member
 category: team
-title: Robert Kovacs
+active: active
+first-name: Róbert
+last-name: Kovács
 description: Software Developer
 twitter:
 linkedin:

@@ -1,7 +1,9 @@
 ---
 layout: member
 category: team
-title: Karen LaVoy
+active: active
+first-name: Karen
+last-name: LaVoy
 description: Customer Experience Manager
 twitter:
 linkedin:
