@@ -24,7 +24,7 @@
                 {% if page.image %}<span class="image fit"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
             </div>
             <div class="9u 12u$(small)">
-                <h1 class="member-name">{{ page.title }}</h1>
+                <h1 class="member-name">{{ page.first-name }} {{ page.last-name }}</h1>
                 <h5>{{ page.description }}
                     {% if page.email %}<a href="mailto:{{ page.email }}"><i class="fa fa-envelope team-contact"></i></a>{% endif %}
                     {% if page.linkedin %}<a href="{{ page.linkedin }}"><i class="fa fa-linkedin team-contact"></i></a>{% endif %}
