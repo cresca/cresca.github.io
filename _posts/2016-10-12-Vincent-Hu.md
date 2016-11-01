@@ -1,7 +1,9 @@
 ---
 layout: member
 category: team
-title: Vincent Hu
+active: active
+first-name: Vincent
+last-name: Hu
 description: Director of Finance
 twitter:
 linkedin:

@@ -1,7 +1,9 @@
 ---
 layout: member
 category: team
-title: Eszter Boda
+active: active
+first-name: Eszter
+last-name: Boda
 description: CEO
 twitter:
 linkedin: https://www.linkedin.com/in/eszter-boda-4653878

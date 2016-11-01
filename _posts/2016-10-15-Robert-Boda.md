@@ -1,7 +1,9 @@
 ---
 layout: member
 category: team
-title: Robert Boda
+active: active
+first-name: Róbert
+last-name: Boda
 description: Fulfillment Manager
 twitter:
 linkedin:

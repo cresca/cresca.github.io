@@ -1,7 +1,9 @@
 ---
 layout: member
 category: team
-title: Crystal Lee
+active: active
+first-name: Crystal
+last-name: Lee
 description: Office Manager
 twitter:
 linkedin: https://www.linkedin.com/in/crystallee14
