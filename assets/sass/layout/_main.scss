@@ -24,13 +24,20 @@
 			border-bottom: solid 1px _palette(border);
 		}
 	}
-	div.hidden-elem {display: none;}
+	.hidden-elem {display: none;}
 
-	div.visible-elem {display: block;}
+	.visible-elem {display: block;}
 
 	.service-box{
 		&.selected {
-			color:#242943;
+			color: #242943;
 			background-color: #FFF;
+		}
+	}
+
+	li a.job-post {
+		&.selected {
+			color: #FFF;
+			background-color: #242943;
 		}
 	}

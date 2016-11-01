@@ -360,4 +360,14 @@
 		$('div.'+classSelected).addClass('visible-elem');
 	});
 
+	$('li a.job-post').on('click', function (){
+		var departmentSelected =  $(this).attr('id');
+
+		$('li a.job-post').removeClass('selected');
+		$(this).addClass('selected');
+
+		$('div.job-box').removeClass('visible-elem').addClass('hidden-elem');
+		$('div.'+departmentSelected).addClass('visible-elem');
+	});
+
 })(jQuery);

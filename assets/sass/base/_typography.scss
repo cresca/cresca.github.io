@@ -112,6 +112,11 @@
 
 	h2 {
 		font-size: 1.75em;
+
+		&.note {
+			font-size: 1.2em;
+			margin: -1.7em 0 2em 0;
+		}
 	}
 
 	h3 {

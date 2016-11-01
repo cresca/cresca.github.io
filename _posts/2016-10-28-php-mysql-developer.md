@@ -2,7 +2,8 @@
 layout: post
 category: jobs
 active: active
-department: Technology & Development
+department: Technology &amp; Development
+identity: tech-dev
 job-title: Developer (PHP, MySQL)
 question-one: Are you an experienced developer looking for your next exciting opportunity?
 question-two: Are you self-directed, able to work remotely with regular online collaboration?
