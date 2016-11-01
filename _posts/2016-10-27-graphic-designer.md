@@ -3,6 +3,7 @@ layout: post
 category: jobs
 active: active
 department: Marketing
+identity: marketing
 job-title: Graphic Designer
 overview: Far from a traditional shop, Cresca offers opportunities for a skilled graphic artist in a multitude of areas. Artwork constructions and deconstructions designed to make our clients look good (and in turn be successful) are the norm. Candidates must be able to provide portfolio of creative work demonstrating conceptual ability and design sense for both print and interactive work.
 question-one:
