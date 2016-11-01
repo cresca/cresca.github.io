@@ -23,9 +23,26 @@ nav-menu: yes
 			<li>Computer savvy</li>
 		</ul>
 
+		<h2>Where Do You Fit?</h2>
+		<h2 class="note">Start your Quest...</h2>
+		<div class="row">
+			<div class="12u 12u$(small)">
+				<ul class="actions values">
+					<li><a href="#" id="cust-exp" class="button special job-post">Customer Experience</a></li>
+					<li><a href="#" id="finance" class="button special job-post">Finance</a></li>
+					<li><a href="#" id="fulfillment" class="button special job-post">Fulfillment</a></li>
+				</ul>
+				<ul class="actions values">
+					<li><a href="#" id="marketing" class="button special job-post">Marketing</a></li>
+					<li><a href="#" id="operations" class="button special job-post">Operations</a></li>
+					<li><a href="#" id="tech-dev" class="button special job-post">Technology &amp; Development</a></li>
+				</ul>
+			</div>
+		</div>
+
 		{% for post in site.posts %}
 		{% if post.category == 'jobs' and post.active == 'active' %}
-			<div class="box">
+			<div class="box job-box hidden-elem {{ post.identity }}">
 				<h3><a href="{{ post.url }}">{{ post.department }}: {{ post.job-title }}</a></h3>
 				{% if post.overview %}
 					<p>{{ post.overview }}</p>
