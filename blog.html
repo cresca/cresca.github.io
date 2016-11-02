@@ -1,0 +1,33 @@
+---
+layout: page
+title: Blog
+description: Learn, Grow &amp; Share
+nav-menu: yes
+---
+<div id="main" class="alt">
+<section id="one">
+	<div class="inner">
+		<h2 id="content">{{ page.title }}</h2>
+
+		{% for post in site.posts %}
+		{% if post.category == 'lgas' and post.active == 'active' %}
+			<div class="box">
+				<header class="major">
+					<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+					<p><i class="fa fa-clock-o"></i> {{ post.date | date: "%B %-d, %Y" }}</p>
+				</header>
+				{% if post.image %}
+					<a href="{{ post.url }}"><span class="image fit"><img src="{{ site.baseurl }}/{{ post.image-small }}" alt="{{ post.caption }}" /></span></a>
+					<caption>{{ post.caption }}</caption>
+				{% endif %}
+				{% if post.intro %}<p>{{ post.intro }}</p>{% endif %}
+				<ul class="actions buttons-to-right">
+					<li><a href="{{ post.url }}" class="button small">Learn More</a></li>
+				</ul>
+			</div>
+		{% endif %}
+		{% endfor %}
+
+	</div>
+</section>
+</div>
