@@ -69,7 +69,7 @@ nav-menu:
 					<img src="assets/images/pic06.jpg" alt="" />
 			</span>
 			<header class="major">
-					<h3><a href="https://learngrowandshare.com/" class="link">Blog</a></h3>
+					<h3><a href="blog.html" class="link">Blog</a></h3>
 					<p>Learn, Grow &amp; Share</p>
 			</header>
 	</article>
