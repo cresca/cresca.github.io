@@ -362,12 +362,19 @@
 
 	$('li a.job-post').on('click', function (){
 		var departmentSelected =  $(this).attr('id');
+		var countOfPosts = $('div.cat-info.'+departmentSelected).data('count');
 
-		$('li a.job-post').removeClass('selected');
-		$(this).addClass('selected');
+		if (countOfPosts > 0 ) {
+			$('div.check-back').addClass('hidden-elem');
+			$('li a.job-post').removeClass('selected');
+			$(this).addClass('selected');
 
-		$('div.job-box').removeClass('visible-elem').addClass('hidden-elem');
-		$('div.'+departmentSelected).addClass('visible-elem');
+			$('div.job-box').removeClass('visible-elem').addClass('hidden-elem');
+			$('div.'+departmentSelected).addClass('visible-elem');
+		} else {
+			$('div.check-back').removeClass('hidden-elem');
+			$('div.job-box').removeClass('visible-elem').addClass('hidden-elem');
+		}
 	});
 
 	$('li a.about-btn').on('click', function (){

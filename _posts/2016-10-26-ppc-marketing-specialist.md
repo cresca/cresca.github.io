@@ -1,6 +1,7 @@
 ---
 layout: job-post
-category: jobs
+category: marketing
+type: jobs
 active: active
 department: Marketing
 identity: marketing

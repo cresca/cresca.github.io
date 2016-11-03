@@ -1,6 +1,7 @@
 ---
 layout: job-post
-category: jobs
+category: cust-exp
+type: jobs
 active: active
 department: Customer Experience
 identity: cust-exp
