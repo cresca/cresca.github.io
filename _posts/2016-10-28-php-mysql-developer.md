@@ -1,6 +1,7 @@
 ---
 layout: job-post
-category: jobs
+category: tech-dev
+type: jobs
 active: active
 department: Technology &amp; Development
 identity: tech-dev
