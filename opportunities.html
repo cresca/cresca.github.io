@@ -8,23 +8,7 @@ nav-menu: yes
 <div id="main" class="alt">
 <section id="one">
 	<div class="inner">
-		<h2 id="content">{{ page.title }}</h2>
-		<p>The Cresca Group is a charmingly quirky business management consultancy founded in Atlanta in 2010. We create and implement
-		growth strategies for multi-channel, multi-national, online retailers by crafting unique and consistent brand images, leveraging
-		social media and PPC advertising tools, improving market reach and conversion, and developing back-end systems to simplify and
-		streamline processes.</p>
-
-		<h2>Crescateer Characteristics</h2>
-		<ul>
-			<li>Patient but fast</li>
-			<li>Enthusiastically friendly</li>
-			<li>Disturbingly detail-oriented</li>
-			<li>Eloquent, clear and straightforward in thought and text</li>
-			<li>Computer savvy</li>
-		</ul>
-
-		<h2>Where Do You Fit?</h2>
-		<h2 class="note">Start your Quest...</h2>
+		<h2>Search our departments to find where you fit.</h2>
 		<div class="row">
 			<div class="12u 12u$(small)">
 				<ul class="actions values">
@@ -40,8 +24,12 @@ nav-menu: yes
 			</div>
 		</div>
 
+		<div class="box check-back hidden-elem">
+			<h4 class="align-center">There are currently no open positions in this department. Please check other departments or back here later.</h4>
+		</div>
+
 		{% for post in site.posts %}
-		{% if post.category == 'jobs' and post.active == 'active' %}
+		{% if post.type == 'jobs' and post.active == 'active' %}
 			<div class="box job-box hidden-elem {{ post.identity }}">
 				<h3><a href="{{ post.url }}">{{ post.department }}: {{ post.job-title }}</a></h3>
 				{% if post.overview %}
@@ -60,6 +48,12 @@ nav-menu: yes
 			</div>
 		{% endif %}
 		{% endfor %}
+
+		{% assign tags_list = site.categories %}
+		    {% for tag in tags_list %}
+				<div class="hiddenn-elem cat-info {{ tag[0] }}" data-count="{{ tag[1].size }}"></div>
+		    {% endfor %}
+		{% assign tags_list = nil %}
 
 	</div>
 </section>
