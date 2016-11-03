@@ -16,9 +16,14 @@ apply: https://www.formstack.com/forms/cresca-crescaapplication
 ## Position Details
 We are looking for a friendly, driven and engaging person to join our customer support team. Your job would include replying to emails, answering phones, processing exchanges, live-chat and handling all types of other customer service related issues. Attention to detail and being downright fast are musts, as are integrity and professionalism.
 
-The position is full time, Monday through Thursday 11 am - 8 pm and Sunday 9 am - 5 pm.
-We are located in Peachtree Corners, GA, about 5 minutes northeast of I-285. We’re so close to a Zaxby’s you can practically taste the wings.
-
 ## Crucial Characteristics of the Right Candidate
-Additional languages skills - particularly German, Spanish, French, Italian or Japanese - are highly appreciated!
-Previous customer service experience is a plus, but not required. You must be smart, extraordinary, a fast learner and motivated.
+
+- Patient but fast
+- Enthusiastically friendly
+- Disturbingly detail-oriented
+- Eloquent, clear and straightforward in thought and text
+- Computer savvy
+
+Additional languages skills - particularly German, Spanish, French, Italian or Japanese - are highly preferred but not required.
+Previous customer service experience is a plus, but not required. You must be smart, delightful, a fast learner and motivated.
+The position is full time Monday through Thursday afternoons and evenings and Sunday 9-5.
