@@ -41,3 +41,10 @@
 			background-color: #242943;
 		}
 	}
+
+	li a.about-btn {
+		&.selected {
+			color: #FFF;
+			background-color: #242943;
+		}
+	}
