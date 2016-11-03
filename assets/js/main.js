@@ -370,4 +370,14 @@
 		$('div.'+departmentSelected).addClass('visible-elem');
 	});
 
+	$('li a.about-btn').on('click', function (){
+		var valueSelected =  $(this).attr('id');
+
+		$('li a.about-btn').removeClass('selected');
+		$(this).addClass('selected');
+
+		$('div.company-val').removeClass('visible-elem').addClass('hidden-elem');
+		$('div.'+valueSelected).addClass('visible-elem');
+	});
+
 })(jQuery);
