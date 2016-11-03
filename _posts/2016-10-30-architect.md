@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: job-post
 category: jobs
 active: active
 department: Customer Experience
