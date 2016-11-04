@@ -18,10 +18,8 @@
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h2>{{ page.title }}</h2>
-            <p><i class="fa fa-clock-o"></i> {{ page.date | date: "%B %-d, %Y" }}</p>
-		</header>
+		<h2 class="blog-heading">{{ page.title }}</h2>
+        <p><i class="fa fa-clock-o"></i> {{ page.date | date: "%B %-d, %Y" }}</p>
 		{% if page.image %}
             <span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>
             <caption>{{ page.caption }}</caption>
