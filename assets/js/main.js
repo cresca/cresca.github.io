@@ -374,6 +374,8 @@
 		} else {
 			$('div.check-back').removeClass('hidden-elem');
 			$('div.job-box').removeClass('visible-elem').addClass('hidden-elem');
+			$('li a.job-post').removeClass('selected');
+			$(this).addClass('selected');
 		}
 	});
 
