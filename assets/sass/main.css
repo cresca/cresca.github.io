@@ -2070,7 +2070,7 @@ button,
     ul.values li:last-child {
       padding: 0 1em 0 0; }
 
-  div.company-val {
+  div.company-val, div.check-back {
     margin: 2em 0 0 0; } }
 ul.buttons-to-right {
   text-align: right; }
