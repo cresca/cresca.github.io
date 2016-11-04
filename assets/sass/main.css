@@ -2068,7 +2068,10 @@ button,
     margin: 0 0 0 0;
     width: 95%; }
     ul.values li:last-child {
-      padding: 0 1em 0 0; } }
+      padding: 0 1em 0 0; }
+
+  div.company-val {
+    margin: 2em 0 0 0; } }
 ul.buttons-to-right {
   text-align: right; }
 
