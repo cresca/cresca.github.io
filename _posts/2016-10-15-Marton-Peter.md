@@ -1,7 +1,7 @@
 ---
 layout: member
 category: team
-active: active
+active: no
 date: 2015-03-11
 first-name: Marton
 last-name: Péter
