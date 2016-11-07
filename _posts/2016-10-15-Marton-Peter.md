@@ -2,6 +2,7 @@
 layout: member
 category: team
 active: active
+date: 2015-03-11
 first-name: Marton
 last-name: Péter
 description: Fulfillment Specialist

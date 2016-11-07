@@ -2,6 +2,7 @@
 layout: member
 category: team
 active: active
+date: 2015-03-15
 first-name: Jonathan
 last-name: Bradley
 description: Fulfillment Specialist

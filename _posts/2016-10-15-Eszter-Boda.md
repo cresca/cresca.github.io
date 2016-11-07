@@ -2,6 +2,7 @@
 layout: member
 category: team
 active: active
+date: 2015-03-18
 first-name: Eszter
 last-name: Boda
 description: CEO

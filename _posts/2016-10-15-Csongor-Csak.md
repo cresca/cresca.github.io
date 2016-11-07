@@ -2,6 +2,7 @@
 layout: member
 category: team
 active: active
+date: 2015-03-19
 first-name: Csongor
 last-name: Csák
 description: Customer Engagement Expert
