@@ -17,7 +17,7 @@ state: GA
 zip_code: 30071
 country: United States
 phone: +1 (770) 558-1753
-email: support@crescagroup.com
+email: admin@crescagroup.com
 
 # Plugins
 gems:
