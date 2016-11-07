@@ -162,6 +162,31 @@
 				max-width: 70% !important;
 			}
 		}
+		div.box.team-members {
+			span.image.fit {
+				img {
+					width: 35%;
+					float: left;
+					display: block;
+				}
+			}
+			p.member-name {
+				float: left;
+				display: block;
+				margin-left: 5%;
+				font-size: 1.5em;
+
+				span.last-name {
+					font-size: 1.3em;
+				}
+			}
+		}
+		div.box.team-members::after {
+			display: block;
+			content: "";
+			clear: both;
+		}
+
 	}
 
 	@media screen and (max-width: 690px) {
@@ -174,6 +199,19 @@
 		}
 		div.company-val, div.check-back {
 			margin: 2em 0 0 0;
+		}
+	}
+
+	@media screen and (max-width: 420px) {
+		div.box.team-members {
+			p.member-name {
+				span.first-name {
+					font-size: 1em;
+				}
+				span.last-name {
+					font-size: 1em;
+				}
+			}
 		}
 	}
 
