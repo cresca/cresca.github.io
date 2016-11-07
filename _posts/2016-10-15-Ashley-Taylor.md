@@ -2,6 +2,7 @@
 layout: member
 category: team
 active: active
+date: 2015-03-22
 first-name: Ashley
 last-name: Taylor
 description: Graphic Designer

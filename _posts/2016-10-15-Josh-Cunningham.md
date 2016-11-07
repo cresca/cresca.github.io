@@ -2,6 +2,7 @@
 layout: member
 category: team
 active: active
+date: 2015-03-14
 first-name: Josh
 last-name: Cunningham
 description: Fulfillment Manager
