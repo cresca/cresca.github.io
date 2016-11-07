@@ -4,9 +4,8 @@ category: lgas
 active: active
 title: 3 Ways to Improve Your Professional Email Etiquette
 date: 2015-05-13
-image-small:
-image:
-caption:
+image-small: assets/images/lgas/email_bigstock-technology-home-and-lifestyle-77824988_h.jpg
+image: assets/images/lgas/email_bigstock-technology-home-and-lifestyle-77824988.jpg
 intro: Our Office Manager engages with a lot of people related to our regular business and our LAMP Camp program. Obviously, before beginning her job she had to be quite savvy in these kinds of interactions, and the longer she’s been in the role, the more she’s learned...
 ---
 Our Office Manager engages with a lot of people related to our regular business and our LAMP Camp program. Obviously, before beginning her job she had to be quite savvy in these kinds of interactions, and the longer she’s been in the role, the more she’s learned.

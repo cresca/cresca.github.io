@@ -4,9 +4,8 @@ category: lgas
 active: active
 title: 19 Minutes Waiting &#43; 3 Second Apology &#61; Everything’s Fine
 date: 2015-02-09
-image-small:
-image:
-caption:
+image-small: assets/images/lgas/wait_bigstock-Passenger-traveler-woman-in-ai-61159226_h.jpg
+image: assets/images/lgas/wait_bigstock-Passenger-traveler-woman-in-ai-61159226.jpg
 intro: When you work a lot of late nights, you eat a lot of grab-and-go dinners. Even though we live in an area of town with a good restaurant selection, we’re still always looking for other choices. Sometimes Scoutmob is a great tool for not only discovering a new meal but also a good deal...
 ---
 When you work a lot of late nights, you eat a lot of grab-and-go dinners. Even though we live in an area of town with a good restaurant selection, we’re still always looking for other choices. Sometimes Scoutmob is a great tool for not only discovering a new meal but also a good deal.

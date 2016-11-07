@@ -4,9 +4,8 @@ category: lgas
 active: active
 title: 7 Customer Service Lessons from the Terrible Customer Service of American Airlines
 date: 2015-01-27
-image-small:
-image:
-caption:
+image-small: assets/images/lgas/customer_bigstock-Women-Working-In-Call-Center-11228093_h.jpg
+image: assets/images/lgas/customer_bigstock-Women-Working-In-Call-Center-11228093.jpg
 intro: One of our company’s core values – and arguably the most important – is “Love Thy Customer.” We know that a strong customer service foundation is central to everything we do because customers are the reason we exist. No customers, no business. It’s that simple...
 ---
 One of our company’s core values – and arguably the most important – is “Love Thy Customer.” We know that a strong customer service foundation is central to everything we do because customers are the reason we exist. No customers, no business. It’s that simple. Whether those customers are the businesses we serve or their end users, for whom we actually perform the customer service of that company, it is because some people choose to hand other people money for their goods or services that our economy moves. That creates our businesses, our livelihoods, feeds our families and lets us fulfill our other missions and visions to improve the world with what we do, no matter the widget we’re selling. When customers are treated right and made to feel that their business is valued, because it is, that begets more and better business. It’s a fairly simple concept, and it’s sometimes usefully demonstrated by a true lack of customer service.

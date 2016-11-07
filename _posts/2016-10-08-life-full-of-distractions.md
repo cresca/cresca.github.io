@@ -4,9 +4,8 @@ category: lgas
 active: active
 title: Life Will Always be Full of Distractions – And That’s Okay
 date: 2015-01-18
-image-small:
-image:
-caption:
+image-small: assets/images/lgas/way_bigstock-Couple-On-A-Road-Trip-Taking-D-123602273_h.jpg
+image: assets/images/lgas/way_bigstock-Couple-On-A-Road-Trip-Taking-D-123602273.jpg
 intro: My wife and I regularly go to a fast paced yoga class called body flow. Three times a week we are in a classroom at a gym down dogging, shivasinaing and namasteing away. When we went on vacation in the Caribbean over Christmas we were delighted to find that there were yoga classes every morning at our resort. It was a great way to start the day, stretching and bending on the sand looking out over the ocean...
 ---
 My wife and I regularly go to a fast paced yoga class called body flow. Three times a week we are in a classroom at a gym down dogging, shivasinaing and namasteing away. When we went on vacation in the Caribbean over Christmas we were delighted to find that there were yoga classes every morning at our resort. It was a great way to start the day, stretching and bending on the sand looking out over the ocean.
@@ -21,4 +20,4 @@ I’m not proposing that you shouldn’t take other steps to focus on what’s i
 
 The moment I realized that I wasn’t going to quiet the beach at our packed resort, that kids weren’t going to stop throwing things, that couples weren’t going to stop fussing about nonsense, and that cabana boys weren’t going to stop scuttling about with early morning beverages, I felt much better. I breathed. I relaxed. I breathed. I stretched. I breathed. I focused. And then I let go.
 
-To say it was just that easy is laughable, yet this allowed me to enjoy the entire experience in a way that I wasn’t before. It was a wonderful way to start the day and has helped me through many more with a greater sense of calm and focus. I hope it helps you, too. 
+To say it was just that easy is laughable, yet this allowed me to enjoy the entire experience in a way that I wasn’t before. It was a wonderful way to start the day and has helped me through many more with a greater sense of calm and focus. I hope it helps you, too.

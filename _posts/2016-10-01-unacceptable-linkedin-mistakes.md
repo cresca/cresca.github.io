@@ -6,7 +6,6 @@ title: 9 Unacceptable LinkedIn Mistakes and How to Fix Them
 date: 2015-09-02
 image-small: assets/images/lgas/bigstock-ostersund-sweden-august-69429757_h.jpg
 image: assets/images/lgas/bigstock-ostersund-sweden-august-69429757.jpg
-caption: Linkedin is a business oriented social networking website.
 intro: There is so much advice that can be given about LinkedIn – tons of possibilities for tweaking and enhancing profiles and countless opinions on the nuances of this social art. As someone who looks at hundreds of profiles, though, from the developers moving through our professional mentorship program to the applicants for our company to our own employees, I’ve come to realize that it’s not in this minutia that most people need to improve their LinkedIn profiles. It’s in the major stuff...
 ---
 There is so much advice that can be given about LinkedIn – tons of possibilities for tweaking and enhancing profiles and countless opinions on the nuances of this social art. As someone who looks at hundreds of profiles, though, from the developers moving through our professional mentorship program to the applicants for our company to our own employees, I’ve come to realize that it’s not in this minutia that most people need to improve their LinkedIn profiles. It’s in the major stuff.

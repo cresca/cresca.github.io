@@ -4,9 +4,8 @@ category: lgas
 active: active
 title: Deciding Who to Launch a Business With
 date: 2015-05-08
-image-small:
-image:
-caption:
+image-small: assets/images/lgas/business_bigstock-Creative-business-colleagues-d-74819668_h.jpg
+image: assets/images/lgas/business_bigstock-Creative-business-colleagues-d-74819668.jpg
 intro: Many people want to know who they should start a business with and who their partners should be. It’s with the very phrasing of the question that I take issue. Partners – plural?
 ---
 Many people want to know who they should start a business with and who their partners should be. It’s with the very phrasing of the question that I take issue. Partners – plural?
