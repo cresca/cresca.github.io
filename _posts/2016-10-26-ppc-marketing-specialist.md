@@ -5,7 +5,7 @@ type: jobs
 active: active
 department: Marketing
 identity: marketing
-job-title: PPC Marketing Specialist
+job-title: PPC Online Marketing Specialist
 overview: We have an immediate opening for a results-driven, creative, proactive, energetic team player to join our team. You’ll collaborate with the Director of Marketing and others to plan, manage and optimize successful PPC (pay-per-click) and online marketing campaigns for our clients.
 question-one:
 question-two:
