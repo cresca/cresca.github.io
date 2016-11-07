@@ -22,9 +22,11 @@
         <p><i class="fa fa-clock-o"></i> {{ page.date | date: "%B %-d, %Y" }}</p>
 		{% if page.image %}
             <span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>
-            <caption>{{ page.caption }}</caption>
         {% endif %}
 		<p>{{ content }}</p>
+        <ul class="actions buttons-to-right">
+            <li><a href="{{ site.baseurl }}/blog.html" class="button small">Back</a></li>
+        </ul>
 	</div>
 </section>
 

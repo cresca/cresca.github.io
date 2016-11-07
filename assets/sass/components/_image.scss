@@ -59,6 +59,10 @@
 				margin: (_size(element-margin) * 0.75) 0;
 			}
 		}
+
+		&.post-small {
+			margin: 0 0 1.3em 0;
+		}
 	}
 
 	span.team-selected {

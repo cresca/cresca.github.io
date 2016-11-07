@@ -16,8 +16,7 @@ nav-menu: yes
 				<p><i class="fa fa-clock-o"></i> {{ post.date | date: "%B %-d, %Y" }}</p>
 
 				{% if post.image %}
-					<a href="{{ post.url }}"><span class="image fit"><img src="{{ site.baseurl }}/{{ post.image-small }}" alt="{{ post.caption }}" /></span></a>
-					<caption>{{ post.caption }}</caption>
+					<a href="{{ post.url }}"><span class="image fit post-small"><img src="{{ site.baseurl }}/{{ post.image-small }}" alt="{{ post.caption }}" /></span></a>
 				{% endif %}
 				{% if post.intro %}<p>{{ post.intro }}</p>{% endif %}
 				<ul class="actions buttons-to-right">

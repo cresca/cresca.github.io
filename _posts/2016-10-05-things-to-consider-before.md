@@ -4,9 +4,8 @@ category: lgas
 active: active
 title: 9 Things to Consider Before Starting a Business
 date: 2015-03-15
-image-small:
-image:
-caption:
+image-small: assets/images/lgas/business_bigstock-startup-business-software-dev-102984188_h.jpg
+image: assets/images/lgas/business_bigstock-startup-business-software-dev-102984188.jpg
 intro: Becoming a successful entrepreneur takes far more than an amazing idea. But you already knew that. Below are nine critical lessons about starting a business that lasts. While these are not necessarily the most essential considerations to the long-term operation of an enterprise, they will improve your chances of success by helping you build a solid startup foundation...
 ---
 Becoming a successful entrepreneur takes far more than an amazing idea. But you already knew that. Below are nine critical lessons about starting a business that lasts. While these are not necessarily the most essential considerations to the long-term operation of an enterprise, they will improve your chances of success by helping you build a solid startup foundation.

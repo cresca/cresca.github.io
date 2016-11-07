@@ -4,9 +4,8 @@ category: lgas
 active: active
 title: Interview the Person, Not the Position
 date: 2015-08-06
-image-small:
-image:
-caption:
+image-small: assets/images/lgas/person_bigstock-People-And-Happiness-Concept--139696646_h.jpg
+image: assets/images/lgas/person_bigstock-People-And-Happiness-Concept--139696646.jpg
 intro: My cousin’s new job has her doing the hiring, and she asked me what kind of advice I had. As she’s good at Google, I imagined she had the standard advice out there, and was just wondering about the particular take I had on the matter. After writing her back, I realized that others might enjoy this perspective – or those applying to Cresca could understand what they’re getting into...
 ---
 My cousin’s new job has her doing the hiring, and she asked me what kind of advice I had. As she’s good at Google, I imagined she had the standard advice out there, and was just wondering about the particular take I had on the matter. After writing her back, I realized that others might enjoy this perspective – or those applying to Cresca could understand what they’re getting into.
