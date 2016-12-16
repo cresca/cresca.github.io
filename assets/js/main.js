@@ -322,7 +322,7 @@
 					$body.removeClass('is-menu-visible');
 
 				})
-				.append('<a class="close" href="#menu">Close</a>');
+				.append('<a class="close" href="#menu"></a>');
 
 			$body
 				.on('click', 'a[href="#menu"]', function(event) {
