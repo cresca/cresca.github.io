@@ -1,7 +1,7 @@
 ---
 layout: member
 category: team
-active: no
+active: active
 date: 2015-03-01
 first-name: Zoltán
 last-name: Bodnár
