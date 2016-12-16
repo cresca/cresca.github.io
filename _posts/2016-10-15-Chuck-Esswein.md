@@ -1,7 +1,7 @@
 ---
 layout: member
 category: team
-active: no
+active: active
 date: 2015-03-21
 first-name: Chuck
 last-name: Esswein
