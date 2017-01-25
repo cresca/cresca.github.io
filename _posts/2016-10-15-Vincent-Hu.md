@@ -2,7 +2,7 @@
 layout: member
 category: team
 active: active
-date: 2015-03-02
+date: 2015-03-01
 first-name: Vincent
 last-name: Hu
 description: Director of Finance
