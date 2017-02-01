@@ -2,7 +2,7 @@
 layout: member
 category: team
 active: active
-date: 2015-03-04
+date: 2015-03-02
 first-name: Tiffany
 last-name: Dingle
 description: Customer Experience Architect

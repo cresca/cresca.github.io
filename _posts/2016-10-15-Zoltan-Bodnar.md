@@ -2,7 +2,7 @@
 layout: member
 category: team
 active: active
-date: 2015-02-28
+date: 2015-02-26
 first-name: Zoltán
 last-name: Bodnár
 description: Market Research Analyst

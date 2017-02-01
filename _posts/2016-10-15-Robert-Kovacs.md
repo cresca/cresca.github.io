@@ -2,7 +2,7 @@
 layout: member
 category: team
 active: active
-date: 2015-03-05
+date: 2015-03-03
 first-name: Róbert
 last-name: Kovács
 description: Software Developer

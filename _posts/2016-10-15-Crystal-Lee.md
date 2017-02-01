@@ -2,7 +2,7 @@
 layout: member
 category: team
 active: active
-date: 2015-03-20
+date: 2015-03-19
 first-name: Crystal
 last-name: Lee
 description: Office Manager
