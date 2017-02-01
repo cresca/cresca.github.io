@@ -2,7 +2,7 @@
 layout: member
 category: team
 active: active
-date: 2015-03-21
+date: 2015-03-20
 first-name: Chuck
 last-name: Esswein
 description: Customer Experience Specialist

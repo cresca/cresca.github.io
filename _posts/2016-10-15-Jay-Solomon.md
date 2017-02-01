@@ -2,7 +2,7 @@
 layout: member
 category: team
 active: active
-date: 2015-03-17
+date: 2015-03-15
 first-name: Jay
 last-name: Solomon
 description: President
