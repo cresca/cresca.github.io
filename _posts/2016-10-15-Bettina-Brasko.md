@@ -4,7 +4,7 @@ category: team
 active: active
 date: 2015-03-21
 first-name: Bettina
-last-name: Brasko
+last-name: Braskó
 description: Customer Experience Expert
 twitter:
 linkedin:
