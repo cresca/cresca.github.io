@@ -4,7 +4,7 @@ category: team
 active: active
 date: 2015-03-15
 first-name: Eszter
-last-name: Boda
+last-name: Tóth
 description: Customer Experience Expert
 twitter:
 linkedin:
