@@ -2,7 +2,7 @@
 layout: member
 category: team
 active: no
-date: 2015-03-06
+date: 2015-03-05
 first-name: Nándor
 last-name: Flór
 description: Customer Experience Expert

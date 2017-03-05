@@ -2,7 +2,7 @@
 layout: member
 category: team
 active: active
-date: 2015-02-27
+date: 2015-02-26
 first-name: Viktória
 last-name: Gál
 description: Customer Experience Expert
