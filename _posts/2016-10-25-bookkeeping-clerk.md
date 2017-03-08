@@ -9,8 +9,8 @@ job-title: Bookkeeping Clerk
 overview:
 question-one: Do you pride yourself on your speed and efficiency in completing tasks?
 question-two: Is your energy and speed dwarfed only by your desire to be accurate?
-question-three: If you answered "definitely, sure, pretty much" then this may be the right position for you!
-answer:
+question-three:
+answer: If you answered "definitely, sure, pretty much" then this may be the right position for you!
 apply: https://www.formstack.com/forms/cresca-crescaapplication
 ---
 
