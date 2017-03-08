@@ -2,7 +2,7 @@
 layout: member
 category: team
 active: active
-date: 2015-03-06
+date: 2015-03-05
 first-name: Mischelle
 last-name: Curtin
 description: Software Developer

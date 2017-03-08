@@ -2,7 +2,7 @@
 layout: member
 category: team
 active: active
-date: 2015-03-02
+date: 2015-02-28
 first-name: Róbert
 last-name: Boda
 description: Fulfillment Manager
