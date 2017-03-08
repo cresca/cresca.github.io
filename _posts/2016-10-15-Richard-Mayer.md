@@ -2,7 +2,7 @@
 layout: member
 category: team
 active: active
-date: 2015-03-03
+date: 2015-03-01
 first-name: Richárd
 last-name: Mayer
 description: Customer Engagement Expert
