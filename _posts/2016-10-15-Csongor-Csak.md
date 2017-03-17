@@ -11,4 +11,4 @@ linkedin:
 email:
 image: assets/images/team/CsongorCsak.png
 ---
-Csongor is a programmer by trade who loves to tinker, learn and explore. He hails from Budapest, loves California and is passionate about coffee.
+Csongor studies electrical engineering at Budapest Institute of Technology.   After graduation, his career path includes creating a company to bring his programming ideas to life. He feels that music is life. A fervent fan of groundbreaking EDM music, he currently embodies that passion by DJ’ing with two turntables and a microphone around town.
