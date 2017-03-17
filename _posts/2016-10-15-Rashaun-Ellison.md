@@ -1,7 +1,7 @@
 ---
 layout: member
 category: team
-active: no
+active: active
 date: 2015-03-02
 first-name: Rashaun
 last-name: Ellison
@@ -11,4 +11,4 @@ linkedin:
 email:
 image: assets/images/team/RashaunEllison.png
 ---
-bio
+Shaun brings a sharp sense of efficiency to the Fulfillment department and makes it a personal goal to complete his tasks well under any deadline or time limit. He is a devoted husband, dedicated tech student as well as a devastatingly competitive video game enthusiast. In his spare time he enjoys creating music and computer programming but not necessarily in that order.
