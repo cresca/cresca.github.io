@@ -2,7 +2,7 @@
 layout: job-post
 category: finance
 type: jobs
-active: active
+active: no
 department: Finance
 identity: finance
 job-title: Business Analyst Internship - Summer 2017
