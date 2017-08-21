@@ -14,9 +14,6 @@ answer: If you answered “mostly, sure, yes" then this may be the right positio
 apply: https://www.formstack.com/forms/cresca-crescaapplication
 ---
 
-## About Our Company:
-The Cresca Group is a charmingly quirky business management consultancy. We create and implement growth strategies for online retailers by crafting a unique and consistent brand image, leveraging social media tools, improving market reach and conversion and developing back-end systems to simplify and streamline processes. We also handle customer service, fulfillment and inventory forecasting. With a unique understanding of branding, technology, marketing and communications - and how to exact competitive advantages when these elements are in harmony - our team partners with its clients to help them push themselves and their businesses to the next level. Learn more about our company here.
-
 ## Position Details:
 We are looking for a highly motivated and competent person to join our business development team. The primary responsibilities of this position will include:
 - Writing online marketplace listings (e.g. Amazon, Walmart, eBay, etc.) for different products and bundles of products in a compelling, creative, attractive and keyword dense way.
