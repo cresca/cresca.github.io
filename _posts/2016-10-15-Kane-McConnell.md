@@ -2,7 +2,7 @@
 layout: member
 category: team
 active: active
-date: 2015-03-10
+date: 2015-03-08
 first-name: Kane
 last-name: McConnell
 description: VP of Information Technology

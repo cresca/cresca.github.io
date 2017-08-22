@@ -2,7 +2,7 @@
 layout: member
 category: team
 active: active
-date: 2015-03-15
+date: 2015-03-13
 first-name: Eszter
 last-name: Tóth
 description: Customer Experience Expert

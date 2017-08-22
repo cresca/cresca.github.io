@@ -2,7 +2,7 @@
 layout: member
 category: team
 active: active
-date: 2015-02-22
+date: 2015-02-20
 first-name: Zoltán
 last-name: Bodnár
 description: Digital Marketing Specialist
