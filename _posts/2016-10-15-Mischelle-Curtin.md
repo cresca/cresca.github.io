@@ -2,7 +2,7 @@
 layout: member
 category: team
 active: active
-date: 2015-03-05
+date: 2015-03-03
 first-name: Mischelle
 last-name: Curtin
 description: Project Lead

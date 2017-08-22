@@ -2,7 +2,7 @@
 layout: member
 category: team
 active: active
-date: 2015-03-09
+date: 2015-03-07
 first-name: Karen
 last-name: LaVoy
 description: Customer Experience Manager
