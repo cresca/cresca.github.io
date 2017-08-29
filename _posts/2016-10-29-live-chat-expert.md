@@ -14,9 +14,9 @@ apply: https://www.formstack.com/forms/cresca-crescaapplication
 ---
 
 ## Position Details
-Our Live Chat Experts are the front lines of giving our customers a fantastic experience. The most frequently needed action is guiding customers to the product pages they need to make a purchase. Other responsibilities are responding effectively to customer requests, addressing emails/customer tickets and related needs. This description is not designed to cover or contain a comprehensive listing for this position.
+Our Customer Experience Experts are the front lines of giving our customers a fantastic experience. You will learn how to do live chat, answer emails and hopefully graduate to phones. The most frequently needed action is guiding customers to the product pages they need to make a purchase. Other responsibilities are responding effectively to customer requests, addressing emails/customer tickets and related needs. This description is not designed to cover or contain a comprehensive listing for this position as there are numerous elements that this position entails.
 
-Business hours are 8:00am EST to 9:00pm EST, daily. Our part-time agents usually work 20 – 30 hours per week via afternoon or evening shifts.
+Business hours are 8:00am EST to 9:00pm EST, daily. The role is part-time or full-time, usually 20 – 40 hours per week via afternoon or evening shifts.
 
 ## Crucial Characteristics of the Right Candidate
 - Excellent command and comprehension of English with proper grammar and punctuation
@@ -26,4 +26,4 @@ Business hours are 8:00am EST to 9:00pm EST, daily. Our part-time agents usually
 - Self-motivated to stay on task
 - Loves to learn
 - Dependable and consistently punctual for scheduled shifts
-- Bonus: additional languages such as German, Spanish, Italian or French
+- Bonus: additional languages such as German, Spanish, Italian, French or Japanese
