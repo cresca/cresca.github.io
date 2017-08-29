@@ -5,7 +5,7 @@ active: active
 date: 2015-02-24
 first-name: Tiffany
 last-name: Dingle
-description: Customer Experience Architect
+description: Senior Customer Experience Architect
 twitter:
 linkedin:
 email:
