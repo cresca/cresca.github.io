@@ -14,22 +14,24 @@ answer:
 apply: https://www.formstack.com/forms/cresca-crescaapplication
 ---
 
-## Key areas of responsibility:
-- Create, categorize and refine keyword lists to create comprehensive campaigns that drive qualified visitors to client sites
-- Implement successful bidding and effective keyword management strategies including remarketing and shopping campaigns
-- Continually monitor, revise, and optimize ad text as necessary
+## Key responsibilities:
+- Build out comprehensive campaign structure across multiple accounts and platforms
+- Duplicate special campaign management techniques across multiple campaigns
+- Review keyword lists to eliminate wasteful spend and suggested opportunities to drive new traffic
+- Monitor, revise, and optimize campaign elements based on provided reports
 - Analyze and assess the performance of campaigns and translate quantitative and qualitative data into recommendations and plans for revising campaign strategy
-- Communicate regularly on status, timeline, budget, deliverables, performance reporting, and competitive intelligence analysis
+- Communicate on status, timeline, budget, deliverables, performance reporting, and competitive intelligence analysis
 
 ## Qualifications and Skills:
-- Strong knowledge of ecommerce principles and an excellent command of the English language
-- Analytical and problem-solving skills to identify PPC advertising pain points and generate cost effective solutions
-- Demonstrated Proficiency with Microsoft Office Suite – especially Excel
-- Extreme attention to detail and outstanding organization skills and the ability to get things done
-- Ability to work independently, under pressure and meet deadlines
-- Strong team player with excellent interpersonal and communication skills
+- An excellent command of the English language
+- Basic understanding of ecommerce
+- General analytical and problem-solving skills
+- Attention to detail
+- Organizational skills
+- Ability to work independently
+- Strong team player with interpersonal and communication skills
 
-## Preferences:
-- Google AdWords, Bing Ads or similar certification
-- Knowledge of and experience with Google Analytics
-- Other programs such as LinkedIn Advertising, AdRoll Remarketing, and more will be part of this position
+## The following would garner preference but certainly isn’t required:
+- Knowledge of Google AdWords, Bing Ads or similar PPC platforms
+- Experience with Google Analytics
+- Other program experience such as LinkedIn Advertising, AdRoll Remarketing, et al
