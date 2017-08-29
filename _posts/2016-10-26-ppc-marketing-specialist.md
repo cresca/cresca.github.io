@@ -34,4 +34,4 @@ apply: https://www.formstack.com/forms/cresca-crescaapplication
 ## The following would garner preference but certainly isn’t required:
 - Knowledge of Google AdWords, Bing Ads or similar PPC platforms
 - Experience with Google Analytics
-- Other program experience such as LinkedIn Advertising, AdRoll Remarketing, et al
+- Other program experience such as LinkedIn Advertising, AdRoll Remarketing, et al.
