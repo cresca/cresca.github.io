@@ -2,7 +2,7 @@
 layout: job-post
 category: cust-exp
 type: jobs
-active: active
+active: no
 department: Customer Experience
 identity: cust-exp
 job-title: Architect

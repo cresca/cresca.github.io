@@ -5,7 +5,7 @@ type: jobs
 active: active
 department: Customer Experience
 identity: cust-exp
-job-title: Live Chat Expert
+job-title: Customer Experience Expert
 question-one: Are you personable, high energy and passionate about helping people?
 question-two: Are you disciplined, organized and a team player?
 question-three: Is your relatively indefatigable energy dwarfed only by your penchant for writing delightful emails and infusing your voice with angelic cheeriness?
