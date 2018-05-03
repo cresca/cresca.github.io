@@ -5,7 +5,7 @@ active: active
 date: 2015-03-03
 first-name: Mischelle
 last-name: Curtin
-description: Project Lead
+description: Software Project Lead
 twitter:
 linkedin:
 email:

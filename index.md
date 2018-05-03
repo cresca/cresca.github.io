@@ -64,7 +64,7 @@ nav-menu:
 					<p>CHALLENGES, SOLUTIONS &amp; RESULTS</p>
 			</header>
 	</article>
-	<article>
+	<!-- <article>
 			<span class="image">
 					<img src="assets/images/pic06.jpg" alt="" />
 			</span>
@@ -81,7 +81,7 @@ nav-menu:
 					<h3><a href="team.html" class="link">Team</a></h3>
 					<p>MEET THE CRESCATEERS</p>
 			</header>
-	</article>
+	</article> -->
 </section>
 
 </div>
