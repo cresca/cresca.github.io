@@ -117,7 +117,7 @@ nav-menu:
 					</p>
 				</div>
 			</section>
-			<section>
+			<!-- <section>
 				<div class="contact-method">
 					<span class="icon alt fa-phone"></span>
 					<h3>Phone</h3>
@@ -132,7 +132,7 @@ nav-menu:
 					{{ site.city }}, {{ site.state }} {{ site.zip_code }}<br />
 					{{ site.country }}</span>
 				</div>
-			</section>
+			</section> -->
 		</section>
 	</div>
 </section>
